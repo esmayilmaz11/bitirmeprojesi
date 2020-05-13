@@ -1,0 +1,3 @@
+[0513/122103.599:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0513/122103.603:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0513/122103.604:ERROR:exception_snapshot_win.cc(98)] thread ID 11560 not found in process
